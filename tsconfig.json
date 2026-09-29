@@ -8,5 +8,5 @@
     "esModuleInterop": true,          // permet import express from 'express'
     "strict": true                    // vérifications de typage strictes
   },
-  "include": ["src/**/*.ts", "jest.config.ts"]          // seuls les fichiers de src sont compilés
+  "include": ["src/**/*.ts"]          // seuls les fichiers de src sont compilés
 }
